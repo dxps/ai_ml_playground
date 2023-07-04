@@ -1,0 +1,7 @@
+[package]
+name = "rust_smartcore_logistic_regression_iris"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+smartcore = { version = "0.3.2", features = [ "datasets" ] }
