@@ -3,7 +3,7 @@
 ### Prereqs
 
 -   The standard packages: `pip install nltk spacy textblob wordcloud gensim`
--   The trained pipeline for English ([`en_core_web_sm`](https://spacy.io/models/en#en_core_web_sm) model: `spacy download en_core_web_sm`.
+-   The trained pipeline (language model) for English ([`en_core_web_sm`](https://spacy.io/models/en#en_core_web_sm) model: `spacy download en_core_web_sm`.
 -   NLTK Data
     -   `sudo pip install nltk`
     -   `sudo python -m nltk.downloader -d /usr/share/nltk_data all` <br/>
